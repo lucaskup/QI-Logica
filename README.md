@@ -1,4 +1,4 @@
-# QI-Logica
+# QI-Lógica
 Bem vindos a disciplina de **Lógica**!
 
 Esse repositório será utilizado para disponibilizar os códigos criados pelo professor em sala de aula.
